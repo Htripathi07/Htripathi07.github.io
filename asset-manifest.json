@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb8d883a.css",
+    "main.js": "/static/js/main.83e74777.js",
+    "static/js/787.785d045b.chunk.js": "/static/js/787.785d045b.chunk.js",
+    "static/media/pic1.png": "/static/media/pic1.8bba2cb50da92b09c3b8.png",
+    "static/media/HARIOM'S RESUME.pdf": "/static/media/HARIOM'S RESUME.a6d92bae534fb23eff1e.pdf",
+    "index.html": "/index.html",
+    "main.fb8d883a.css.map": "/static/css/main.fb8d883a.css.map",
+    "main.83e74777.js.map": "/static/js/main.83e74777.js.map",
+    "787.785d045b.chunk.js.map": "/static/js/787.785d045b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8d883a.css",
+    "static/js/main.83e74777.js"
+  ]
+}
