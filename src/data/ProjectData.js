@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://drive.google.com/uc?id=1EhJy634Q3Xkbin6jKDcWk5i3MyfdsEkG",
+    img: "https://i.ibb.co/XL21bB5/A4236-CAE-A45-E-4652-9-C1-D-DD35-F4514-E57.jpg",
     title: "Myntra : E-commerce Webiste",
     description: `Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru,India. Myntra offers products in fashion & beauty Category.`,
     tech_stack: "HTML, CSS, Javascript, ES6",
@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://myntra8.netlify.app/",
   },
   {
-    img: "https://drive.google.com/uc?id=1rkqlhl3-ZG5Qt8aeHH_rm-ojctXgOxbg",
+    img: "https://i.ibb.co/G5VgkNk/FC985-ABB-4-E34-4415-8955-689374-DEB890.jpg",
     title: "Foodie-App",
     description:
       "Find and order from local restaurants to satisfy your cravings with our easy-to-use foodie app. Get started today!",
@@ -18,7 +18,7 @@ export const ProjectList = [
     demo_url: "https://foodie-app-7.netlify.app",
   },
   {
-    img: "https://drive.google.com/uc?id=1GpZ6od-tjIJf_0X401aIQPCqdrk63Nx9",
+    img: "https://i.ibb.co/6B8cJXy/53-D7-AF56-263-F-4-B37-A47-E-02-AD203-D9944.jpg",
     title: "Mwendo Africa : Rental website",
     description:
       "Looking to rent a car? Here we have Mwendo Africa website to make this easy.User can quickly rent a car from here amd enjoy their tour!",
@@ -27,7 +27,7 @@ export const ProjectList = [
     demo_url: "https://mwendu-cw2.netlify.app/",
   },
   {
-    img: "https://drive.google.com/uc?id=1O-7qFJBCWqDFQlNFLELswyGfcepdew81",
+    img: "https://i.ibb.co/j8t8gg3/C72-F4-FC3-C370-42-C3-ABF2-972-D0985256-F.jpg",
     title: "Tic-Tac-toe Game",
     description:    
 "Experience the classic Tic Tac Toe game with a modern twist in our React-based interactive web app.",
@@ -36,7 +36,7 @@ export const ProjectList = [
     demo_url: "https://tic1-tac-toe.netlify.app/",
   },
   {
-    img: "https://drive.google.com/uc?id=1Gqe-7iIjXAjybgJevxBt13QAB1b7kbTY",
+    img: "https://i.ibb.co/FqWzB9m/03-AC7193-7-D02-4098-A6-CA-ECDB7642-B54-A.jpg",
     title: "Buddha Ventures:One page site",
     description: `Welcome to Buddha Ventures: Rediscover the essence of Buddhism and join us in creating real-world impact. Explore our mission to align modern practices with Buddha's vision.`,
     tech_stack: "HTML, CSS, Javascript, Es6",
@@ -45,7 +45,7 @@ export const ProjectList = [
   },
 
   {
-    img: "https://drive.google.com/uc?id=1GrIQlHOcvvo6PnlnBwx5zX46YNTtT6WA",
+    img: "https://i.ibb.co/vsBrbGH/AB6-E84-F3-67-F3-4-B05-AAF1-AEA7-EA8-E0-F01.jpg",
     title: "TODO-App",
     description:
       "Simplify your life with our Todo App. Organize tasks effortlessly, boost productivity, and stay on top of your goals. Get started today!",
@@ -56,34 +56,33 @@ export const ProjectList = [
 ];
 
 // --------------------------------------- Skills-------------------------//
-
 export const stackList = [
   {
-    img: "https://drive.google.com/uc?id=1iwW4VTj8O2dU8LS0qZr_XGoJ5miK0It4",
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
     name: "HTML",
   },
   {
-    img: "https://drive.google.com/uc?id=16WKsmXVA7qULrx9y_fnNr49gY5ccML3n",
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
     name: "CSS",
   },
   {
-    img: "https://drive.google.com/uc?id=1lNWK-A16xbi0GS_xGw6SXF5tE7mqxSsM",
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/javascript.svg",
     name: "JavaScript",
   },
   {
-    img: "https://drive.google.com/uc?id=1Kgv8uqcmeKHTml_V3hTypDbmo-RjePOw",
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/react.svg",
     name: "ReactJS",
   },
   {
-    img: "https://drive.google.com/uc?id=1x3418n4cCiX_0ug0T62bRaeAzVS5eHSq",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg",
     name: "Redux",
   },
   {
-    img: "https://drive.google.com/uc?id=1aUIRLGBH8yTaUXf1wfmAAn2dKaWrkQMq",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
     name: "NodeJS",
   },
   {
-    img: "https://drive.google.com/uc?id=1gHHWqn_ALqH50eKVcUWJ_pcTPon1bKaY",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
     name: "MongoDB",
   },
   {
@@ -91,7 +90,7 @@ export const stackList = [
     name: "Express",
   },
   {
-    img: "https://drive.google.com/uc?id=1eM0jTIKxPlxvTZyeMY57pWzcvc_jgKPi",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
     name: "TypeScript",
   },
   {
@@ -99,7 +98,7 @@ export const stackList = [
     name: "Chakra Ui",
   },
   {
-    img: "https://drive.google.com/uc?id=1WS19WsaG9ATxxPkBv2xBkVfPQMn4r_VT",
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
     name: "Git",
   },
   {

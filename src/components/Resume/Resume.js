@@ -1,10 +1,12 @@
-import Hariom_Resume from "./Hariom-Tripathi-Resume.pdf";
 import styled from "styled-components";
+
+import Hariom_Resume from "./Hariom-Tripathi-Resume.pdf";
 import { Button } from "./ResumeElements";
+
 export const Resume2 = () => {
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1YqbBkuKJ6_vqgHqOB9UBgU4tLC-tAFyh/view?usp=sharing"
+      "https://drive.google.com/file/d/1_1AVjKmC54npmVeYb1U5vKh-nDX4Ou2-/view?usp=sharing"
     );
   };
 

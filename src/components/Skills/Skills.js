@@ -1,13 +1,8 @@
 import React from "react";
+
 import { stackList } from "../../data/ProjectData";
-import {
-  Image,
-  Technologies,
-  Tech,
-  TechImg,
-  TechName,
-  ContactWrapper,
-} from "./SkillsElements";
+import { ContactWrapper, Image, Tech, TechImg, TechName, Technologies } from "./SkillsElements";
+
 function Skills() {
   return (
     <>
