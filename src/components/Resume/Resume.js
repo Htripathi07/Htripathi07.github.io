@@ -6,7 +6,7 @@ import { Button } from "./ResumeElements";
 export const Resume2 = () => {
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1_1AVjKmC54npmVeYb1U5vKh-nDX4Ou2-/view?usp=sharing"
+       "https://drive.google.com/file/d/1_1AVjKmC54npmVeYb1U5vKh-nDX4Ou2-/view?usp=sharing"
     );
   };
 

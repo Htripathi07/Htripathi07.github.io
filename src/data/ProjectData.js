@@ -1,50 +1,50 @@
 // --------------------------------------- Project List
 export const ProjectList = [
-  {
-    img: "https://i.ibb.co/59Lpf3n/Screenshot-2024-07-03-at-12-39-13-AM.png",
-    title: "91Trucks.com",
-    description:
-      "Thinking of buying a Truck, Bus or Three Wheelers? 91Trucks helps you in researching with reviews, specifications, customer ratings all at one place",
-    tech_stack: "Next, Tailwind, Typescript, Node, Express",
-    // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
-     demo_url: "https://www.91trucks.com/",
-  },
-  {
-    img: "https://i.ibb.co/MsyJx4Z/Screenshot-2024-07-03-at-12-45-05-AM.png",
-    title: "91Tractors.com",
-    description:
-      "Search Tractors By Brands ... * Prices are indicative and subject to change. © 2024 91Tractors.",
-    tech_stack: "Next, Tailwind, Typescript, Node, Express",
-    // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
-     demo_url: "https://www.91tractors.com/",
-  },
-  {
-    img: "https://i.ibb.co/2hwC3LM/Screenshot-2024-07-03-at-12-48-12-AM.png",
-    title: "91Infra.com",
-    description:
-      "Search Heavy Machineries By Brands ... * Prices are indicative and subject to change. © 2024 91Infra",
-    tech_stack: "Next, Tailwind, Typescript, Node, Express",
-    // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
-     demo_url: "https://www.91infra.com/",
-  },
-  {
-    img: "https://i.ibb.co/PYyrmjp/Screenshot-2024-07-03-at-12-27-34-AM.png",
-    title: "Sociomee",
-    description:
-      "Sociomee is a social media platform built on the MERN stack, blending features from Facebook, Instagram, Twitter etc. It offers a unified experience where users can connect with friends, share photos and videos, post updates in real-time, and buy/sell goods within the platform.",
-    tech_stack: "React, Bootstrap, Javascript, Node, Express",
-    // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
-     demo_url: "https://meessages.com/",
-  },
-  {
-    img: "https://i.ibb.co/vzbK7Bj/adminsociomee.png",
-    title: "Sociomee Admin",
-    description:
-      "Sociomee's admin and superadmin roles oversee all platform features and operations. Admins manage user profiles, content moderation, and community guidelines, while superadmins handle server maintenance, database management, and platform scalability. ",
-    tech_stack: "React, Bootstrap, Javascript, Node, Express",
-    // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
-     demo_url: "https://admin.meessages.com/",
-  },
+  // {
+  //   img: "https://i.ibb.co/59Lpf3n/Screenshot-2024-07-03-at-12-39-13-AM.png",
+  //   title: "91Trucks.com",
+  //   description:
+  //     "Thinking of buying a Truck, Bus or Three Wheelers? 91Trucks helps you in researching with reviews, specifications, customer ratings all at one place",
+  //   tech_stack: "Next, Tailwind, Typescript, Node, Express",
+  //   // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
+  //    demo_url: "https://www.91trucks.com/",
+  // },
+  // {
+  //   img: "https://i.ibb.co/MsyJx4Z/Screenshot-2024-07-03-at-12-45-05-AM.png",
+  //   title: "91Tractors.com",
+  //   description:
+  //     "Search Tractors By Brands ... * Prices are indicative and subject to change. © 2024 91Tractors.",
+  //   tech_stack: "Next, Tailwind, Typescript, Node, Express",
+  //   // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
+  //    demo_url: "https://www.91tractors.com/",
+  // },
+  // {
+  //   img: "https://i.ibb.co/2hwC3LM/Screenshot-2024-07-03-at-12-48-12-AM.png",
+  //   title: "91Infra.com",
+  //   description:
+  //     "Search Heavy Machineries By Brands ... * Prices are indicative and subject to change. © 2024 91Infra",
+  //   tech_stack: "Next, Tailwind, Typescript, Node, Express",
+  //   // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
+  //    demo_url: "https://www.91infra.com/",
+  // },
+  // {
+  //   img: "https://i.ibb.co/PYyrmjp/Screenshot-2024-07-03-at-12-27-34-AM.png",
+  //   title: "Sociomee",
+  //   description:
+  //     "Sociomee is a social media platform built on the MERN stack, blending features from Facebook, Instagram, Twitter etc. It offers a unified experience where users can connect with friends, share photos and videos, post updates in real-time, and buy/sell goods within the platform.",
+  //   tech_stack: "React, Bootstrap, Javascript, Node, Express",
+  //   // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
+  //    demo_url: "https://meessages.com/",
+  // },
+  // {
+  //   img: "https://i.ibb.co/vzbK7Bj/adminsociomee.png",
+  //   title: "Sociomee Admin",
+  //   description:
+  //     "Sociomee's admin and superadmin roles oversee all platform features and operations. Admins manage user profiles, content moderation, and community guidelines, while superadmins handle server maintenance, database management, and platform scalability. ",
+  //   tech_stack: "React, Bootstrap, Javascript, Node, Express",
+  //   // github_url: "https://github.com/Htripathi07/Foodie-Ordering-Website",
+  //    demo_url: "https://admin.meessages.com/",
+  // },
   {
     img: "https://i.ibb.co/G5VgkNk/FC985-ABB-4-E34-4415-8955-689374-DEB890.jpg",
     title: "Foodie-App",

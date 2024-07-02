@@ -114,7 +114,7 @@ function Dropdown({ isOpen, toggle }) {
         </NavLink>
       </NavMenu>
       <NavBtn onClick={toggle}>
-         <Resume2/>
+         {/* <Resume2/>÷\ */}
       </NavBtn>
     </SiderBar>
   );
