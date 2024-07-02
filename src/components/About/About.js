@@ -40,30 +40,28 @@ function About() {
               src="https://contentstatic.techgig.com/photo/88751917.cms"
               alt="man-svgrepo"
             />
-            <div className="AboutBio" id="user-detail-name">
-              {/* <ul> */}
-              <li id="user-detail-name">
-                Hello! My name is <strong>Hariom Tripathi </strong>and I find
-                great joy in crafting digital creations that thrive on the vast
-                landscape of the internet.
-              </li>
-              <br />
-              <li id="user-detail-intro">
-                My expertise spans across HTML5, CSS3, JavaScript, ReactJs,
-                NodeJs, Express, and I'm well-versed in working with database
-                technologies like MongoDB
-              </li>
-              <br />
-              <li id="user-detail-intro">
-                Throughout my journey, I have successfully constructed numerous
-                web applications and completed four significant projects. These
-                experiences have not only enhanced my technical prowess but also
-                imparted invaluable lessons in teamwork, leadership, and
-                effective communication. Now, after undergoing months of
-                rigorous training, I am eagerly seeking an opportunity to
-                contribute as a full stack web developer.
-              </li>
-            </div>
+           <div className="AboutBio" id="user-detail-name">
+  <li id="user-detail-name">
+    Hello! My name is <strong>Hariom Tripathi</strong> and I find great joy in crafting digital creations that thrive on the vast landscape of the internet.
+  </li>
+  <br />
+  <li id="user-detail-intro">
+    My passion lies in creating elegantly simple designs and writing clean, efficient code. I take immense pride in my abilities, which have been honed through extensive experience across diverse projects.
+  </li>
+  <br />
+  <li id="user-detail-intro">
+    As a skilled full-stack developer, my expertise spans ReactJs, NextJS, Tailwind CSS, Bootstrap, Typescript, HTML5, CSS3, JavaScript, NodeJs, Express, mySQL,postgreSQL and MongoDB. I have successfully delivered projects in various domains including product-based requirements, e-commerce solutions, food delivery apps, video streaming applications, content management systems, and learning management systems etc.
+  </li>
+  <br />
+  <li id="user-detail-intro">
+    I have also contributed to mobile application projects such as lock screen apps and interactive whiteboard drawing tools, demonstrating versatility across web and mobile platforms.
+  </li>
+  <br />
+  <li id="user-detail-intro">
+    With a dedicated team, we strive to exceed client expectations by delivering solutions that are not only technically robust but also user-friendly and aligned with business objectives.
+  </li>
+</div>
+
           </Card>
         </div>
       </ContactWrapper>

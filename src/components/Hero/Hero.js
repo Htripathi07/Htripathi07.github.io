@@ -29,9 +29,7 @@ function Hero() {
             <h1>Hi, I'm Hariom Tripathi</h1>
             <h5>Full Stack Web Developer</h5>
             <p>
-              My passion lies in creating elegantly simple designs and writing
-              clean code. I find immense joy in the work I do and take pride in
-              my abilities.
+            My passion lies in crafting elegantly simple designs and writing clean, efficient code. I find profound joy in my work and take immense pride in my abilities. With a skilled team dedicated to exceeding client expectations, we collaborate seamlessly to deliver projects that resonate with users and achieve business goals.
             </p>
           </HeroLeft>
           <HeroRight>
