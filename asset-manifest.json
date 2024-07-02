@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fb8d883a.css",
-    "main.js": "/static/js/main.9ecaf151.js",
+    "main.js": "/static/js/main.12ca3f71.js",
     "static/js/787.785d045b.chunk.js": "/static/js/787.785d045b.chunk.js",
     "static/media/Hariom-Tripathi-Resume.pdf": "/static/media/Hariom-Tripathi-Resume.67c035ba915ba13d4a51.pdf",
     "static/media/Hariom's Ai.jpg": "/static/media/Hariom's Ai.0e1d81811ad5abdce49d.jpg",
     "index.html": "/index.html",
     "main.fb8d883a.css.map": "/static/css/main.fb8d883a.css.map",
-    "main.9ecaf151.js.map": "/static/js/main.9ecaf151.js.map",
+    "main.12ca3f71.js.map": "/static/js/main.12ca3f71.js.map",
     "787.785d045b.chunk.js.map": "/static/js/787.785d045b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb8d883a.css",
-    "static/js/main.9ecaf151.js"
+    "static/js/main.12ca3f71.js"
   ]
 }
